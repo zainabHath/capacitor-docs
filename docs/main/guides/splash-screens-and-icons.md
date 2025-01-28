@@ -34,6 +34,8 @@ npx capacitor-assets generate
 
 Alternatively you can generate for a specific platform with `--ios`, `--android` or `--pwa`.
 
+For Splash Screen you need to follow this link: https://capacitorjs.com/docs/apis/splash-screen
+
 :::note
 The [VS Code Extension](../vs-code-ext/0-getting-started.mdx) can also generate Splash Screen and Icon assets.
 :::
